@@ -1,0 +1,33 @@
+_repo: Moses-and-Aaron-Civil-and-Ecclesiastical-Rites-Used-by-the-Ancient-Hebrews_52639
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodwin, Thomas
+    aliases:
+    - Godwin, Thomas
+    - Goodwyn, Thomas
+    - Godwinus, Thomas
+    - Godwyn, Thomas
+    - Goodwinus, Thomas
+    birthdate: 1586
+    deathdate: 1642
+    gutenberg_agent_id: '47849'
+    url: http://www.gutenberg.org/2009/agents/47849
+description: ''
+gutenberg_issued: '2016-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rites and ceremonies in the Bible -- Early works to 1800'
+- !lcsh 'Judaism -- Early works to 1800'
+- !lcsh 'Judaism -- Customs and practices -- Early works to 1800'
+- !lcc 'BM'
+- !lcsh 'Worship in the Bible -- Early works to 1800'
+- GITenberg
+title: 'Moses and Aaron: Civil and Ecclesiastical Rites, Used by the Ancient Hebrews'
+url: http://www.gutenberg.org/ebooks/52639
