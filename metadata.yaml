@@ -1,5 +1,8 @@
 _repo: Moses-and-Aaron-Civil-and-Ecclesiastical-Rites-Used-by-the-Ancient-Hebrews_52639
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52639-h/images/cover.jpg
 creator:
   author:
     agent_name: Goodwin, Thomas
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47849'
     url: http://www.gutenberg.org/2009/agents/47849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52639#Moses-and-Aaron-Civil-and-Ecclesiastical-Rites-Used-by-the-Ancient-Hebrews
 gutenberg_issued: '2016-07-24'
 gutenberg_type: Text
 identifiers:
